@@ -1,0 +1,10 @@
+mediapipe==0.10.35
+opencv-contrib-python==4.10.0.84
+numpy==2.5.4
+protobuf==6.33.6
+streamlit==1.51.0
+plotly==6.4.0
+pandas==2.3.3
+pillow==12.3.0
+google-genai==1.47.0
+pydantic==2.12.4

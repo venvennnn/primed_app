@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+models/*.task
+.local/
+data/
+*.mp4
+.streamlit/secrets.toml
